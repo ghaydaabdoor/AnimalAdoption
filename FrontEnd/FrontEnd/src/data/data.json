@@ -1,0 +1,62 @@
+{
+  "Header": {
+    "title": "Welcome to Fitness Tracker",
+    "paragraph": "Track your workouts, set fitness goals, and monitor your progress with personalized plans and nutrition tracking. Start your fitness journey today!"
+  },
+  "About": {
+    "paragraph": "Fitness Tracker helps you stay on top of your fitness goals with personalized workout plans, nutrition tracking, and progress monitoring. Whether you're a beginner or an advanced athlete, our platform is designed to support your journey toward a healthier lifestyle.",
+    "Why": [
+      "Personalized workout plans",
+      "Track your nutrition intake",
+      "Monitor your progress",
+      "Reach your fitness goals faster"
+    ],
+    "Why2": [
+      "Easy to use interface",
+      "Comprehensive fitness insights",
+      "Support for all fitness levels",
+      "Access from anywhere, anytime"
+    ]
+  },
+  "Contact": {
+    "address": "Amman, Jordan, Prince Alia Street",
+    "phone": "+962 787 585 666",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
+  "Footer": {
+    "address": "123 Fitness St, Gym City",
+    "phone": "+123 456 789",
+    "email": "info@fitnesstracker.com",
+    "facebook": "https://facebook.com/fitnesstracker",
+    "twitter": "https://twitter.com/fitnesstracker",
+    "youtube": "https://instagram.com/fitnesstracker",
+    "termsOfService": "/terms",
+    "privacyPolicy": "/privacy",
+    "support": "/support"
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReactTask1API.props" />
+</Project>
